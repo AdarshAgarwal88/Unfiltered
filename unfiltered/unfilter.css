@@ -1,0 +1,185 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.imgdesign img {
+    height: 100%;
+width: 102%;
+}
+
+.navbardesign {
+    position: absolute;
+    width: 100%;
+}
+
+.Unfiltered12 p {
+    margin-left: -51%;
+    margin-top: 7%;
+    font-size: 125%;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #A4F6E8;
+}
+
+.logo img {
+    margin-top: 4%;
+    margin-left: 33%;
+    border-radius: 76%;
+
+}
+
+.backgrounddesign1 {
+    background-color: black;
+    padding: 0%;
+}
+
+.fontdesign p {
+    color: aliceblue;
+    font-family: 'Open Sans';
+    margin-top: 48px;
+    margin-left: 12%;
+    margin-bottom: 5%;
+}
+
+.fontdesign1 p {
+    color: aliceblue;
+font-family: 'Open Sans';
+margin-left: 70%;
+font-size: 85%;
+margin-top: 10%;
+
+}
+.imagedesign img{
+    width: 95%;
+margin-left: 21%;
+}
+.imagedesign1 img{
+    width: 95%;
+margin-left: 9%;
+}
+.imagedesign2 img{
+    width: 95%;
+margin-left: -2%;
+}
+.imagedesign3 img{
+    width: 95%;
+margin-left: -14%;
+}
+.imagedesign4 img{
+    width: 117%;
+margin-left: 35%;
+height: 90%;
+}
+.imagedesign5 img{
+    width: 117%;
+margin-left: 42%;
+height: 90%;
+}
+.imagedesign6 img{
+    width: 117%;
+margin-left: 50%;
+height: 90%;
+}
+.imagedesign7 img{
+    width: 117%;
+margin-left: 58%;
+height: 90%;
+
+}
+.imagedesign8 img{
+    width: 117%;
+margin-left: 67%;
+height: 90%;
+}
+.line{
+    margin-left: 12%;
+    width: 14%;
+    color: #A4F6E8;
+    height: 2%
+}
+.logoHome p{
+    color: #A4F6E8;
+   
+   
+}
+.logoShows p{
+    color: white;
+    
+   
+}
+.logoAbout p{
+    color: white;
+    
+  
+    font-size: 96%;
+}
+.logoabouts p{
+    color: white;
+    
+  
+    font-size: 96%
+}
+.buttondesign{
+    background: #A4F6E8 !important;
+    border-radius: 10px !important;
+    font-size: 83%;
+    padding: 4%;
+    width: 113%;
+}
+.imagefooter img{
+    width: 115%;
+    padding-left: 1%;
+}
+.logo1{
+    margin-top: 2%;
+    margin-left: 21%;
+    border-radius: 76%;
+    width: 15%;
+}
+
+
+.Unfiltered p {
+margin-left: -51%;
+margin-top: 3%;
+font-size: 125%;
+font-family: 'Open Sans';
+font-weight: bold;
+color: #A4F6E8;
+}
+
+.parafooter p{
+    margin-bottom: 1rem;
+    color: wheat;
+    font-size: 44%;
+    margin-top: 10%;
+    margin-left: -76%;
+}
+.parafooter1 p{
+    margin-bottom: 1rem;
+    color: rgb(245, 222, 179);
+    font-size: 44%;
+    margin-top: 16%;
+    margin-left: -76%;
+}
+
+@media only screen and (min-width:300px) and (max-width:600px) {
+	.logo img{
+        margin-left: 2%;
+        margin-top: 1%;
+        width: 11%;
+	}
+    .Unfiltered12 p{
+        margin-top: -11%;
+        margin-left: 42%;
+    }
+}
+
+@media only screen and ( max-width:768px) {
+	.logo img{
+        margin-left: 2%;
+        margin-top: 1%;
+        width: 11%;
+	}
+    .Unfiltered12 p{
+        margin-top: -11%;
+        margin-left: 42%;
+    }
+}
